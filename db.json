@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "maksymbe",
+      "firstName": "Max"
+    },
+    {
+      "id": 2,
+      "username": "maksymto",
+      "firstName": "Max"
+    },
+    {
+      "id": 3,
+      "username": "dmytroza",
+      "firstName": "Dima"
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "size": "Regular",
+      "title": "Borsh",
+      "image": "https://gotovim-doma.ru/images/recipe/0/0a/00ad9d3b1ff86a92ce5935bc47a1bdee.jpg",
+      "price": 2.5,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 2,
+      "size": "Regular",
+      "title": "hamburger",
+      "image": "https://img1.goodhouse.ru/upload/img_get/7f/7ff9e2a5f7a74d94570aec31c0b04db3_cropped_612x412.jpg",
+      "price": 4.5,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+    },
+    {
+      "id": 3,
+      "size": "Regular",
+      "title": "Salad",
+      "image": "http://www.goodchefbadchef.com.au/wp-content/uploads/2018/01/GCBC10_EP13_Algerian-Beef-Salad-700x404.jpg",
+      "price": 15.5,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+    },
+    {
+      "id": 4,
+      "size": "Regular",
+      "title": "Shaurma",
+      "image": "https://facebook.github.io/react-native/docs/assets/favicon.png",
+      "price": 3,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+    },
+    {
+      "id": 5,
+      "size": "Regular",
+      "title": "Shaurma",
+      "image": "http://www.goodchefbadchef.com.au/wp-content/uploads/2018/01/GCBC10_EP13_Algerian-Beef-Salad-700x404.jpg",
+      "price": 3.70,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+    },
+    {
+      "id": 6,
+      "size": "Regular",
+      "title": "Shaurma",
+      "image": "https://facebook.github.io/react-native/docs/assets/favicon.png",
+      "price": 3.10,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+    },
+    {
+      "id": 7,
+      "size": "Regular",
+      "title": "Shaurma",
+      "image": "http://www.goodchefbadchef.com.au/wp-content/uploads/2018/01/GCBC10_EP13_Algerian-Beef-Salad-700x404.jpg",
+      "price": 3.20,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+    },
+    {
+      "id": 8,
+      "size": "Regular",
+      "title": "Shaurma",
+      "image": "https://facebook.github.io/react-native/docs/assets/favicon.png",
+      "price": 312,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+    },
+    {
+      "id": 9,
+      "size": "Regular",
+      "title": "Shaurma",
+      "image": "http://www.goodchefbadchef.com.au/wp-content/uploads/2018/01/GCBC10_EP13_Algerian-Beef-Salad-700x404.jpg",
+      "price": 30,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ]
+}
